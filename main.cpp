@@ -1,19 +1,6 @@
 #include "iostream"
 
 
-class cat
-{
-private:
-    uint8_t old;
-    char16_t name;
-public:
-    cat(int tuoi, char16_t ten);
-    ~cat();
-    void sua();
-};
-
-
-
 
 
 int main(void){
@@ -22,7 +9,7 @@ int main(void){
     
     for (int i = 0; i < 10; i++)
     {
-        printf("hello baby \n");
+        printf("hello world");
     }
     
 
