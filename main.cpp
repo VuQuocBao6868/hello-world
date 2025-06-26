@@ -1,6 +1,11 @@
 #include "iostream"
 
 
+<<<<<<< branch_1
+=======
+
+
+>>>>>>> main
 
 
 int main(void){
@@ -13,7 +18,7 @@ int main(void){
     }
     
 
-
+    printf(" I don't wanna commit more !!");
 
 
 
