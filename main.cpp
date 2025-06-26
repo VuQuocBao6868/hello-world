@@ -1,6 +1,20 @@
 #include "iostream"
 
 
+class cat
+{
+private:
+    uint8_t old;
+    char16_t name;
+public:
+    cat(int tuoi, char16_t ten);
+    ~cat();
+    void sua();
+};
+
+
+
+
 
 int main(void){
 
@@ -13,6 +27,8 @@ int main(void){
     
 
     printf(" I don't wanna commit more !!");
+
+
 
 
     return 0;
